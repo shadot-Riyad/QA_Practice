@@ -1,4 +1,4 @@
-/*
+
 function CelciusToFer(celcius){
     if(typeof celcius !=="number" || Number.isNaN(celcius)){
         return "The Value are Invalid!";
@@ -46,7 +46,7 @@ function isPalindrome(word) {
 console.log(isPalindrome("racecar")); // true
 console.log(isPalindrome("madam"));   // true
 console.log(isPalindrome("Riyad"));   // false
-*/
+
 
 
 function fizzBuzz(limit) {
